@@ -11,5 +11,5 @@ In this project I scrape an IPL data of a website named "ESPN".
 
 ## Tech Stack ⚒
 
-**Nodejs, Request & Cheerio**
+**Javascript, Nodejs, npm FS Module, npm Request & npm Cheerio.**
 
