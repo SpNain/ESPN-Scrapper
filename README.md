@@ -1,12 +1,12 @@
 # ESPN Scrapper
 
-In this project I scrape an IPL data of a website named `ESPN`.
+- In this project I scrape an IPL data of a website named `ESPN`.
 
-The project uses npm packages `fs`, `cheerio`, and `request` to scrape data from the ESPN website.
+- The project uses npm packages `fs`, `cheerio`, and `request` to scrape data from the ESPN website.
 
-The `request` package is used to make HTTP requests to the ESPN website, while `cheerio` is used to parse and manipulate the HTML data that is returned.
+- The `request` package is used to make HTTP requests to the ESPN website, while `cheerio` is used to parse and manipulate the HTML data that is returned.
 
-The `fs` package is used to write the scraped data to a file for storage or further processing.
+- The `fs` package is used to write the scraped data to a file for storage or further processing.
 
 ## Working 📝
 
