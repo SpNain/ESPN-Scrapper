@@ -1,6 +1,6 @@
 # ESPN Scrapper
 
-- In this project I scrape an IPL data of a website named `ESPN` which as a result gives highest wicket taker name and batsman name who hits maximum no. of sixes. 
+In this project I scrape an IPL data of a website named `ESPN` which as a result gives highest wicket taker name and batsman name who hits maximum no. of sixes. 
 
 ## Working 📝
 
